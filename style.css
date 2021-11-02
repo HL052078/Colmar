@@ -1,0 +1,24 @@
+.black {
+    font-size: 32px;
+    color: black;
+
+}
+
+.grey {
+    font-size: 32px;
+    color: grey;
+}
+
+.tan-bg {
+    background-color: #D1CFD0;
+    padding: 32px 24px;
+}
+
+.col1 {
+    padding-right: 24px;
+}
+
+.col2 {
+    padding-left: 0;
+}
+
